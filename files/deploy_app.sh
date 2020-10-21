@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s catty auto installed web app. Check out the new updated incredible magic of Infrastructure as Code!
+  Welcome to ${PREFIX}'s catty auto installed web app. Check out the incredible magic of Infrastructure as Code!
   <!-- END -->
 
   </div>
